@@ -2,7 +2,7 @@
 op blooket hacks
 how to use
 
-on https://github.com/THEHACKER35/all_game_blooket_hacks_working-/blob/main/.gitignore by the code there is these.
+on https://github.com/THEHACKERISFIRST/all-game-blooket-hack_working/blob/main/.gitignore by the code there is these.
 boxes that overlap click on that then it is coped to your clip bord.
 get on the game you are playing.
 hit Ctrl+Shift+i .
